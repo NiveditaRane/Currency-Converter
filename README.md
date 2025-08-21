@@ -27,4 +27,5 @@ A **fast and user-friendly currency converter** that lets you convert between cu
 ## 📣 Spread the Word
 
 If you like this project, ⭐ star it on GitHub and share it with your friends!
+**Tags:** #CurrencyConverter #WebApp #JavaScript #Finance #Frontend #Responsive
 
